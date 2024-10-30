@@ -1,0 +1,52 @@
+div.login_buttons_ui img {
+  border: 0px;
+  height: 32px;
+  width: 32px;
+}
+
+.login_buttons_wordpress_form input {
+  height: 18px;
+}
+
+img#login_buttons_comment_via_provider  {
+  width: 16px;
+  height: 16px;
+}
+
+img.login_buttons_already_connected_logo {
+  float:left; 
+  padding-right: 10px;
+}
+
+div.login_buttons_wordpress_form {
+  display:none;
+}
+
+div.login_buttons_already_connected_form {
+  display:none;
+}
+
+div.login_buttons_facebook_auth {
+  display:none;
+}
+
+div.login_buttons_twitter_auth {
+  display:none;
+}
+
+div.login_buttons_google_auth {
+  display:none;
+}
+
+div.login_buttons_yahoo_auth {
+  display:none;
+}
+
+div.login_buttons_openid_auth {
+  display:none;
+}
+
+div.login_buttons_wordpress_auth {
+  display:none;
+}
+
